@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3CA8AFAE29BA403300BDFC0B /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA8AFAD29BA403300BDFC0B /* Constants.swift */; };
+		3CA8AFB029BA42BA00BDFC0B /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA8AFAF29BA42BA00BDFC0B /* Video.swift */; };
+		3CA8AFB229BA431D00BDFC0B /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA8AFB129BA431D00BDFC0B /* Model.swift */; };
+		3CA8AFB429CE061700BDFC0B /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA8AFB329CE061700BDFC0B /* Response.swift */; };
 		3CD59BF729A0065F0000FD1C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CD59BF629A0065F0000FD1C /* AppDelegate.swift */; };
 		3CD59BF929A0065F0000FD1C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CD59BF829A0065F0000FD1C /* SceneDelegate.swift */; };
 		3CD59BFB29A0065F0000FD1C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CD59BFA29A0065F0000FD1C /* ViewController.swift */; };
@@ -16,6 +20,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3CA8AFAD29BA403300BDFC0B /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		3CA8AFAF29BA42BA00BDFC0B /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
+		3CA8AFB129BA431D00BDFC0B /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		3CA8AFB329CE061700BDFC0B /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
 		3CD59BF329A0065F0000FD1C /* G-Fit YouTube.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "G-Fit YouTube.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CD59BF629A0065F0000FD1C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3CD59BF829A0065F0000FD1C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +71,10 @@
 				3CD59BFF29A006610000FD1C /* Assets.xcassets */,
 				3CD59C0129A006610000FD1C /* LaunchScreen.storyboard */,
 				3CD59C0429A006610000FD1C /* Info.plist */,
+				3CA8AFAD29BA403300BDFC0B /* Constants.swift */,
+				3CA8AFAF29BA42BA00BDFC0B /* Video.swift */,
+				3CA8AFB129BA431D00BDFC0B /* Model.swift */,
+				3CA8AFB329CE061700BDFC0B /* Response.swift */,
 			);
 			path = "G-Fit YouTube";
 			sourceTree = "<group>";
@@ -141,6 +153,10 @@
 				3CD59BFB29A0065F0000FD1C /* ViewController.swift in Sources */,
 				3CD59BF729A0065F0000FD1C /* AppDelegate.swift in Sources */,
 				3CD59BF929A0065F0000FD1C /* SceneDelegate.swift in Sources */,
+				3CA8AFB229BA431D00BDFC0B /* Model.swift in Sources */,
+				3CA8AFAE29BA403300BDFC0B /* Constants.swift in Sources */,
+				3CA8AFB029BA42BA00BDFC0B /* Video.swift in Sources */,
+				3CA8AFB429CE061700BDFC0B /* Response.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
